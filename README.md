@@ -1,0 +1,1 @@
+This a project which involves predicting if a patient has parkinson's using speech signal data. Logistic Regression, K-Nearest-Neighbors, and Random Forest models are tested on this dataset after it is feature engineered, and an accuracy of 93% is achieved in predicting Parkinson's.
